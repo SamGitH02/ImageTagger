@@ -2,6 +2,9 @@
 
 This Streamlit app uses Google's Gemini AI model to generate captions and tags for uploaded images. It also allows users to provide their own captions and tags for comparison.
 
+## Acess the app
+https://imagetaggergit-yhbbvbstdbfzwjwjjcvtir.streamlit.app/
+
 ## Features
 
 *   **AI-Powered Captioning and Tagging:** Automatically generates descriptive captions and relevant tags for images using Google's Gemini AI.
